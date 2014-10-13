@@ -1,0 +1,14 @@
+html {
+    font-size: 87.5%;
+}
+body {
+    font-size: 14px;
+    font-size: 1rem;
+    font-family: Helvetica, Arial, sans-serif;
+    text-rendering: optimizeLegibility;
+    color: #444;
+}
+.jita ul {
+    list-style-type:none;
+}
+
